@@ -1,2 +1,2 @@
 # 1st-flask-api
--api com criada com flask com o intuito de relembrar como se faz 😁
+- api com criada com flask com o intuito de relembrar como se faz 😁
